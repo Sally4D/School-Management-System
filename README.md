@@ -25,7 +25,7 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
 - Quick access to frequently used features and reports
 - Summary statistics relevant to the logged-in user
 
-![Dashboard](/Dashboard.png)
+![Dashboard](/pics/Dashboard.png)
 
 ### 2. Multi-Portal Access
 - Three distinct access portals with role-specific functionality:
@@ -42,8 +42,8 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
   - Attendance tracking
 - Add, update, and remove student records with data validation
 
-![Database Management 1](/Managing%20Data%20(1).png)
-![Student Management](/List%20View%20Manage%20Students.png)
+![Database Management 1](/pics/Managing%20Data%20(1).png)
+![Student Management](/pics/List%20View%20Manage%20Students.png)
 
 ### 4. Teacher Management
 - Comprehensive teacher profile system including:
@@ -53,7 +53,7 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
   - Contact information and availability
 - Efficient assignment of teachers to classes with workload management
 
-![Database Management 2](/Managing%20Data%20(2).png)
+![Database Management 2](/pics/Managing%20Data%20(2).png)
 
 ### 5. Class & Timetable Organization
 - Intuitive timetable creation and management interface
@@ -61,8 +61,8 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
 - Classroom resource allocation and management
 - Visual timetable views by teacher, class, or room
 
-![Class Assignment](/List%20View%20-%20Assigning%20Classes.png)
-![Timetable Management](/Manage%20%20TimeTable.png)
+![Class Assignment](/pics/List%20View%20-%20Assigning%20Classes.png)
+![Timetable Management](/pics/Manage%20%20TimeTable.png)
 
 ### 6. Goal Management System
 - Goal creation and assignment based on user type:
@@ -72,7 +72,7 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
 - Progress tracking and notification system
 - Achievement recognition and reporting
 
-![Goal Management](/Assign%20%26%20ManageGoals.png)
+![Goal Management](/pics/Assign%20%26%20ManageGoals.png)
 
 ### 7. User Profile Management
 - Detailed user profile creation and maintenance
@@ -80,7 +80,7 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
 - Document attachment capabilities for certificates, IDs, etc.
 - Password management and security controls
 
-![User Profile Management](/Managing%20User%20Profiles.png)
+![User Profile Management](/pics/Managing%20User%20Profiles.png)
 
 ### 8. Advanced Reporting
 - Comprehensive reporting system with filterable parameters
@@ -88,7 +88,7 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
 - Export capabilities to multiple formats
 - Custom report generation for stakeholder requirements
 
-![Advanced Reporting](/Extensive%20Reports.png)
+![Advanced Reporting](/pics/Extensive%20Reports.png)
 
 ## Technical Specifications
 - ### **Microsoft Access Implementation:**
