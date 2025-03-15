@@ -42,6 +42,7 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
   - Attendance tracking
 - Add, update, and remove student records with data validation
 
+![Database Management 1](/Managing%20Data%20(1).png)
 ![Student Management](/List%20View%20Manage%20Students.png)
 
 ### 4. Teacher Management
@@ -52,6 +53,8 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
   - Contact information and availability
 - Efficient assignment of teachers to classes with workload management
 
+![Database Management 2](/Managing%20Data%20(2).png)
+
 ### 5. Class & Timetable Organization
 - Intuitive timetable creation and management interface
 - Conflict detection and prevention when scheduling classes
@@ -59,7 +62,7 @@ The **School Management System (SMS)** is a comprehensive Microsoft Access-based
 - Visual timetable views by teacher, class, or room
 
 ![Class Assignment](/List%20View%20-%20Assigning%20Classes.png)
-![Timetable Management](/Manage%20TimeTable.png)
+![Timetable Management](/Manage%20%20TimeTable.png)
 
 ### 6. Goal Management System
 - Goal creation and assignment based on user type:
@@ -104,10 +107,6 @@ The database implements a normalized structure with:
   - Data validation rules to maintain data integrity
   - Parameterized queries to prevent SQL injection
   - Transaction processing for critical operations
-
-![Database Management 1](/Managing%20Data%20(1).png)
-![Database Management 2](/Managing%20Data%20(2).png)
-![Database Management 3](/Managing%20Data%20(3).png)
 
 ## Installation & Setup
 Follow these steps to set up and run the School Management System on your machine.
